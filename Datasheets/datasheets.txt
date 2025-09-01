@@ -1,0 +1,2 @@
+save datasheets for all key components here
+you can delete this text file
